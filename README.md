@@ -6,6 +6,16 @@ Object-oriented design patterns typically show relationships and interactions be
 
 Design patterns may be viewed as a structured approach to computer programming intermediate between the levels of a programming paradigm and a concrete algorithm.
 
-### Creational patterns
+## Run
 
-- `#0969Da` Factory Pattern blue
+To run this project run
+
+```bash
+  npm install -g ts-node
+  cd ./foldername
+  ts-node index.ts
+```
+
+### Creational patterns 🌱
+
+- Factory Pattern
