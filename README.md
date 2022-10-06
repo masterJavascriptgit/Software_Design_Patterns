@@ -20,3 +20,7 @@ To run this project run
 
 - Factory
 - Singleton
+
+## Behavioral patterns ✨
+
+- Strategy
