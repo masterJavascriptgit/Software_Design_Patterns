@@ -24,3 +24,4 @@ To run this project run
 ## Behavioral patterns ✨
 
 - Strategy
+- Iterator
