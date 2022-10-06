@@ -18,4 +18,5 @@ To run this project run
 
 ### Creational patterns 🌱
 
-- Factory Pattern
+- Factory
+- Singleton
