@@ -25,3 +25,4 @@ To run this project run
 
 - Strategy
 - Iterator
+- Observer
