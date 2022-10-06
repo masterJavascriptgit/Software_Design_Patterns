@@ -6,6 +6,6 @@ Object-oriented design patterns typically show relationships and interactions be
 
 Design patterns may be viewed as a structured approach to computer programming intermediate between the levels of a programming paradigm and a concrete algorithm.
 
-## Creational patterns
+### Creational patterns
 
-- Factory Pattern `#0969Da`
+- `#0969Da` Factory Pattern blue
