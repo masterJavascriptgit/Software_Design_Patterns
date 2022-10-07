@@ -26,6 +26,7 @@ To run this project run
 - Strategy
 - Iterator
 - Observer
+- Mediator
 
 ## Structural patterns 🌟
 
