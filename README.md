@@ -26,3 +26,7 @@ To run this project run
 - Strategy
 - Iterator
 - Observer
+
+## Structural patterns 🌟
+
+- Proxy

@@ -40,8 +40,8 @@ const shipping = new Shipping();
 
 shipping.setStrategy(new UPS());
 
-console.log(`Ups strategy : ${shipping.calculate()}`);
+console.log(`Ups strategy : ${shipping.calculate()}`); // Ups strategy : 25
 
 shipping.setStrategy(new FedEx());
 
-console.log(`FedEx strategy : ${shipping.calculate()}`);
+console.log(`FedEx strategy : ${shipping.calculate()}`); // FedEx strategy : 35
